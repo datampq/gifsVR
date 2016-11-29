@@ -1,6 +1,5 @@
 # gifsVR
-Unity gif streaming app for the GearVR/Oculus by datampq.
-Simple app that lets you stream gifs from a web server with netflix-like environment.
+Simple Unity3d app that lets you stream gifs from a web server with netflix-like environment for the GearVR/Oculus by datampq.
 <h1>Setup</h1>
 1. Get android SDK (Android studio)
 2. Enable dev mode on your android device & USB debugging
